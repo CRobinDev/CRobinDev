@@ -16,7 +16,7 @@ Hi, I'm Christopher Robin
 Don't hesitate to reach me by the platform below : 
 
 <a href="https://www.instagram.com/c.robin07/">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)</a>
-<a href="https:https://www.linkedin.com/in/christopher-robin-tanugroho-031310289/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
+<a href="https://www.linkedin.com/in/christopher-robin-tanugroho-031310289/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
 <a href="mailto:williamchen1506@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
