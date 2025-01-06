@@ -10,7 +10,7 @@ Hi, I'm Christopher Robin
 - 🔭 I’m currently studying on Unversity of Brawijaya majoring **Informatics Engineering**
 - 🌱 I’m currently learning **Gin, and SQL**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a weeb
+- ⚡ Fun fact: nocturnal kid
 
 ## 🌐 Social Media
 Don't hesitate to reach me by the platform below : 
